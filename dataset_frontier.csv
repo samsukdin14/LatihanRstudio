@@ -1,6 +1,4 @@
 ,Y,X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,Z1,Z2,Z3,Z4,Z5,Z6,Z7,Z8,Z9,Z10,Z11
-,kg,ha,kg,kg,kg,rp,rp,liter,rp,HOK,HOK,tahun,tahun,satuan,tahun,menit,rp,nominal,nominal,nominal,nominal,nominal
-INDEXFRONTIER1,produksi,Luas,Bibit,Urea,NPK ,Pupuk ,PupukO,PestisidaO ,PestisidaK,TKLK,TKDK,Pengalaman Bertani,Edukasi Petani,JumlahTK,Umur,jarak,PendapatanL,irigasi,Pengairan,Akses ,PKT,SKL
 1, 1.819 ,0.35, 25 , 60 , 65 , 0 , 0 , 0 , 444.999 ,61,16,38,8,1,63,15,18000000,1,0,0,0,0
 2, 1.516 ,0.35, 25 , 60 , 65 , 0 , 0 , 0 , 638.020 ,96,26,38,8,1,63,15,18000000,0,0,0,0,0
 3, 3.031 ,0.35, 25 , 60 , 65 , 0 , 94.000 , 5 , 0 ,95,7,38,8,1,63,15,18000000,0,0,0,0,0
